@@ -1,0 +1,3 @@
+[submodule "git_submodules/sms-tools"]
+	path = git_submodules/sms-tools
+	url = https://github.com/MTG/sms-tools.git
